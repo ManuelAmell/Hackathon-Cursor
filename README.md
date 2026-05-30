@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="public/logo.png" alt="Conéctate Cartagena" width="110" />
-
-# Conéctate Cartagena
+<img src="public/logo-banner.png" alt="Conéctate Cartagena" width="420" />
 
 ### Tu ciudad, tus oportunidades 🌴
 
