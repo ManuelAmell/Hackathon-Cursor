@@ -34,6 +34,13 @@ En Cartagena hay miles de jóvenes con talento y miles de oportunidades — pero
 
 <div align="center">
 
+### 🏠 Pantalla principal
+Feed de oportunidades con búsqueda, filtros, banner de urgencia, KPIs en vivo y tarjetas accionables.
+
+<img src="public/main-page.png" alt="Feed principal de oportunidades" width="60%" />
+
+<br/><br/>
+
 ### 🔐 Inicio de sesión
 Acceso limpio y enfocado, con cuentas para jóvenes y para organizaciones.
 
