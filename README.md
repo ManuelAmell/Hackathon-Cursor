@@ -55,6 +55,13 @@ Cada oportunidad geolocalizada por barrio, con filtros, leyenda y **rutas a pie*
 
 <br/><br/>
 
+### ✨ Crear eventos con IA
+Las organizaciones describen su idea en una frase y la IA completa toda la convocatoria automáticamente.
+
+<img src="public/create-event.png" alt="Crear evento con IA" width="60%" />
+
+<br/><br/>
+
 ### 🤖 Perfil & CV con IA
 Escribe unas palabras clave y la IA redacta tu perfil profesional por ti.
 
